@@ -1,3 +1,3 @@
 # lamp_installer
-Apache PHP MySQL WordPress SuiteCRM Tomcat Java JasperReport Talend-ESB 
-Menu driven deployment scripts
+Apache PHP MySQL with WordPress SuiteCRM Tomcat Java JasperReport Talend-ESB 
+ >Menu driven deployment script
